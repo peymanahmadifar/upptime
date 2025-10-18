@@ -8,15 +8,15 @@ sites:
   - name: my-dev
     url: https://my-dev.kheradedu.ir
   - name: my-dpi
-    url: https://dpi.kheradedu.ir
+    url: https://dpi.kheradedu.ir/admin
   - name: registerhub-ui
     url: https://kheradedu.com
   - name: registerhub-api
-    url: https://api.kheradedu.com
+    url: https://api.kheradedu.com/admin
   - name: registerhub-dev-ui
     url: https://dev.kheradedu.com
   - name: registerhub-dpi
-    url: https://dpi.kheradedu.com
+    url: https://dpi.kheradedu.com/admin
   - name: emdad-khodro
     url: https://emdad-khodro-ardabil.ir
   - name: khodrobar
