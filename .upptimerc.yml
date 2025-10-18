@@ -1,22 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: peymanahmadifar # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: MY
+    url: https://my.kheradedu.ir
+  - name: my-dev
+    url: https://my-dev.kheradedu.ir
+  - name: my-dpi
+    url: https://dpi.kheradedu.ir
+  - name: registerhub-ui
+    url: https://kheradedu.com
+  - name: registerhub-api
+    url: https://api.kheradedu.com
+  - name: registerhub-dev-ui
+    url: https://dev.kheradedu.com
+  - name: registerhub-dpi
+    url: https://dpi.kheradedu.com
+  - name: emdad-khodro
+    url: https://emdad-khodro-ardabil.ir
+  - name: khodrobar
+    url: https://khodrobar-ardabil.ir
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
