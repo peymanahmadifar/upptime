@@ -1,7 +1,7 @@
 url: https://dev.kheradedu.com
-status: up
-code: 200
-responseTime: 6392
-lastUpdated: 2025-12-16T23:18:36.095Z
+status: down
+code: 503
+responseTime: 1190
+lastUpdated: 2025-12-17T09:00:01.049Z
 startTime: 2025-10-18T03:37:06.614Z
 generator: Upptime <https://github.com/upptime/upptime>
