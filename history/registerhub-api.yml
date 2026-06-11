@@ -1,7 +1,7 @@
 url: https://api.kheradedu.com/admin
-status: up
-code: 200
-responseTime: 4198
-lastUpdated: 2026-06-10T00:11:59.950Z
+status: down
+code: 504
+responseTime: 17995
+lastUpdated: 2026-06-11T00:15:17.360Z
 startTime: 2025-10-18T03:36:58.919Z
 generator: Upptime <https://github.com/upptime/upptime>
