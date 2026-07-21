@@ -1,7 +1,7 @@
 url: https://dpi.kheradedu.com/admin
-status: up
-code: 200
-responseTime: 3114
-lastUpdated: 2026-07-20T23:55:14.650Z
+status: down
+code: 504
+responseTime: 15417
+lastUpdated: 2026-07-21T14:30:13.020Z
 startTime: 2025-10-18T03:37:13.450Z
 generator: Upptime <https://github.com/upptime/upptime>
