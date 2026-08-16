@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.kheradedu.ir.ico",
     "slug": "my",
     "status": "up",
-    "uptime": "64.67%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "64.67%",
+    "uptime": "64.68%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "64.68%",
     "time": 3921,
     "timeDay": 4110,
     "timeWeek": 5211,
@@ -146,7 +146,7 @@
       "2026-08-12": 82,
       "2026-08-14": 256,
       "2026-08-15": 27,
-      "2026-08-16": 37
+      "2026-08-16": 22
     }
   },
   {
@@ -156,9 +156,9 @@
     "slug": "my-dev",
     "status": "up",
     "uptime": "61.53%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "61.53%",
     "time": 2782,
     "timeDay": 4413,
@@ -303,8 +303,7 @@
       "2026-08-10": 97,
       "2026-08-11": 59,
       "2026-08-14": 98,
-      "2026-08-15": 22,
-      "2026-08-16": 10
+      "2026-08-15": 22
     }
   },
   {
@@ -312,12 +311,12 @@
     "url": "https://dpi.kheradedu.ir/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.ir.ico",
     "slug": "my-dpi",
-    "status": "up",
-    "uptime": "63.84%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "63.84%",
+    "status": "down",
+    "uptime": "63.85%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "63.85%",
     "time": 5322,
     "timeDay": 6128,
     "timeWeek": 9232,
@@ -459,7 +458,7 @@
       "2026-08-12": 104,
       "2026-08-14": 321,
       "2026-08-15": 17,
-      "2026-08-16": 5
+      "2026-08-16": 0
     }
   },
   {
