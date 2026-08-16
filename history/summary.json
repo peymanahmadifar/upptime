@@ -6,15 +6,15 @@
     "slug": "my",
     "status": "down",
     "uptime": "64.63%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "95.57%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "64.63%",
-    "time": 3933,
+    "time": 3941,
     "timeDay": 5859,
     "timeWeek": 5629,
     "timeMonth": 5510,
-    "timeYear": 3933,
+    "timeYear": 3941,
     "dailyMinutesDown": {
       "2025-10-25": 26,
       "2025-10-31": 16,
@@ -146,7 +146,7 @@
       "2026-08-12": 82,
       "2026-08-14": 256,
       "2026-08-15": 27,
-      "2026-08-16": 9
+      "2026-08-16": 22
     }
   },
   {
@@ -311,17 +311,17 @@
     "url": "https://dpi.kheradedu.ir/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.ir.ico",
     "slug": "my-dpi",
-    "status": "down",
+    "status": "up",
     "uptime": "63.80%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "93.87%",
-    "uptimeMonth": "98.17%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "63.80%",
-    "time": 5328,
-    "timeDay": 8161,
-    "timeWeek": 9900,
-    "timeMonth": 8344,
-    "timeYear": 5328,
+    "time": 5321,
+    "timeDay": 7380,
+    "timeWeek": 9593,
+    "timeMonth": 8245,
+    "timeYear": 5321,
     "dailyMinutesDown": {
       "2025-10-18": 25,
       "2025-10-21": 30,
@@ -458,7 +458,7 @@
       "2026-08-12": 104,
       "2026-08-14": 321,
       "2026-08-15": 17,
-      "2026-08-16": 0
+      "2026-08-16": 13
     }
   },
   {
