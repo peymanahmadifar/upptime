@@ -4,17 +4,17 @@
     "url": "https://my.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my.kheradedu.ir.ico",
     "slug": "my",
-    "status": "down",
+    "status": "up",
     "uptime": "64.67%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "64.67%",
-    "time": 3927,
-    "timeDay": 4637,
-    "timeWeek": 5403,
-    "timeMonth": 5435,
-    "timeYear": 3927,
+    "time": 3921,
+    "timeDay": 4110,
+    "timeWeek": 5211,
+    "timeMonth": 5366,
+    "timeYear": 3921,
     "dailyMinutesDown": {
       "2025-10-25": 26,
       "2025-10-31": 16,
@@ -146,7 +146,7 @@
       "2026-08-12": 82,
       "2026-08-14": 256,
       "2026-08-15": 27,
-      "2026-08-16": 32
+      "2026-08-16": 37
     }
   },
   {
@@ -154,17 +154,17 @@
     "url": "https://my-dev.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my-dev.kheradedu.ir.ico",
     "slug": "my-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "61.53%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "61.53%",
-    "time": 2789,
-    "timeDay": 5488,
-    "timeWeek": 4417,
-    "timeMonth": 3034,
-    "timeYear": 2789,
+    "time": 2782,
+    "timeDay": 4413,
+    "timeWeek": 4216,
+    "timeMonth": 2989,
+    "timeYear": 2782,
     "dailyMinutesDown": {
       "2025-10-25": 25,
       "2025-10-31": 26,
@@ -304,7 +304,7 @@
       "2026-08-11": 59,
       "2026-08-14": 98,
       "2026-08-15": 22,
-      "2026-08-16": 5
+      "2026-08-16": 10
     }
   },
   {
@@ -312,17 +312,17 @@
     "url": "https://dpi.kheradedu.ir/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.ir.ico",
     "slug": "my-dpi",
-    "status": "down",
+    "status": "up",
     "uptime": "63.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "93.87%",
-    "uptimeMonth": "98.17%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "93.82%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "63.84%",
-    "time": 5329,
-    "timeDay": 6661,
-    "timeWeek": 9495,
-    "timeMonth": 8228,
-    "timeYear": 5329,
+    "time": 5322,
+    "timeDay": 6128,
+    "timeWeek": 9232,
+    "timeMonth": 8135,
+    "timeYear": 5322,
     "dailyMinutesDown": {
       "2025-10-18": 25,
       "2025-10-21": 30,
@@ -459,7 +459,7 @@
       "2026-08-12": 104,
       "2026-08-14": 321,
       "2026-08-15": 17,
-      "2026-08-16": 0
+      "2026-08-16": 5
     }
   },
   {
