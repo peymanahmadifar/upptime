@@ -311,17 +311,17 @@
     "url": "https://dpi.kheradedu.ir/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.ir.ico",
     "slug": "my-dpi",
-    "status": "down",
+    "status": "up",
     "uptime": "63.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "93.87%",
-    "uptimeMonth": "98.17%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "63.85%",
-    "time": 5322,
-    "timeDay": 6128,
-    "timeWeek": 9232,
-    "timeMonth": 8135,
-    "timeYear": 5322,
+    "time": 5328,
+    "timeDay": 6236,
+    "timeWeek": 9135,
+    "timeMonth": 8111,
+    "timeYear": 5328,
     "dailyMinutesDown": {
       "2025-10-18": 25,
       "2025-10-21": 30,
@@ -458,7 +458,7 @@
       "2026-08-12": 104,
       "2026-08-14": 321,
       "2026-08-15": 17,
-      "2026-08-16": 0
+      "2026-08-16": 7
     }
   },
   {
