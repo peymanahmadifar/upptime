@@ -4,17 +4,17 @@
     "url": "https://my.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my.kheradedu.ir.ico",
     "slug": "my",
-    "status": "down",
+    "status": "up",
     "uptime": "64.90%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "95.72%",
-    "uptimeMonth": "98.50%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "98.49%",
     "uptimeYear": "64.90%",
-    "time": 3915,
-    "timeDay": 3397,
-    "timeWeek": 4558,
-    "timeMonth": 5286,
-    "timeYear": 3915,
+    "time": 3909,
+    "timeDay": 3153,
+    "timeWeek": 4424,
+    "timeMonth": 5222,
+    "timeYear": 3909,
     "dailyMinutesDown": {
       "2025-10-25": 26,
       "2025-10-31": 16,
@@ -147,7 +147,7 @@
       "2026-08-14": 256,
       "2026-08-15": 27,
       "2026-08-16": 22,
-      "2026-08-18": 44
+      "2026-08-18": 50
     }
   },
   {
@@ -155,11 +155,11 @@
     "url": "https://my-dev.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my-dev.kheradedu.ir.ico",
     "slug": "my-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "61.70%",
-    "uptimeDay": "85.66%",
-    "uptimeWeek": "94.99%",
-    "uptimeMonth": "98.29%",
+    "uptimeDay": "86.39%",
+    "uptimeWeek": "94.94%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "61.70%",
     "time": 2815,
     "timeDay": 5756,
@@ -306,7 +306,7 @@
       "2026-08-14": 98,
       "2026-08-15": 22,
       "2026-08-17": 364,
-      "2026-08-18": 22
+      "2026-08-18": 27
     }
   },
   {
@@ -317,8 +317,8 @@
     "status": "down",
     "uptime": "63.99%",
     "uptimeDay": "83.95%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "97.24%",
+    "uptimeWeek": "91.14%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "63.99%",
     "time": 5331,
     "timeDay": 5743,
@@ -462,7 +462,7 @@
       "2026-08-14": 321,
       "2026-08-15": 17,
       "2026-08-17": 359,
-      "2026-08-18": 46
+      "2026-08-18": 62
     }
   },
   {
@@ -601,11 +601,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kheradedu.com.ico",
     "slug": "registerhub-api",
     "status": "up",
-    "uptime": "70.98%",
+    "uptime": "70.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.77%",
-    "uptimeYear": "70.98%",
+    "uptimeYear": "70.99%",
     "time": 4532,
     "timeDay": 2881,
     "timeWeek": 3181,
