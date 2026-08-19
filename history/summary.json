@@ -4,17 +4,17 @@
     "url": "https://my.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my.kheradedu.ir.ico",
     "slug": "my",
-    "status": "down",
+    "status": "up",
     "uptime": "64.97%",
-    "uptimeDay": "90.11%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "98.20%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "64.97%",
-    "time": 4000,
-    "timeDay": 7465,
-    "timeWeek": 5296,
-    "timeMonth": 5609,
-    "timeYear": 4000,
+    "time": 4008,
+    "timeDay": 7256,
+    "timeWeek": 5331,
+    "timeMonth": 5616,
+    "timeYear": 4008,
     "dailyMinutesDown": {
       "2025-10-25": 26,
       "2025-10-31": 16,
@@ -148,7 +148,7 @@
       "2026-08-15": 27,
       "2026-08-16": 22,
       "2026-08-18": 35,
-      "2026-08-19": 142
+      "2026-08-19": 148
     }
   },
   {
@@ -158,9 +158,9 @@
     "slug": "my-dev",
     "status": "down",
     "uptime": "61.69%",
-    "uptimeDay": "65.74%",
-    "uptimeWeek": "90.09%",
-    "uptimeMonth": "97.17%",
+    "uptimeDay": "65.22%",
+    "uptimeWeek": "90.02%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "61.69%",
     "time": 2832,
     "timeDay": 3821,
@@ -308,7 +308,7 @@
       "2026-08-15": 22,
       "2026-08-17": 364,
       "2026-08-18": 37,
-      "2026-08-19": 478
+      "2026-08-19": 486
     }
   },
   {
@@ -318,9 +318,9 @@
     "slug": "my-dpi",
     "status": "down",
     "uptime": "63.97%",
-    "uptimeDay": "62.71%",
-    "uptimeWeek": "87.03%",
-    "uptimeMonth": "96.02%",
+    "uptimeDay": "62.19%",
+    "uptimeWeek": "86.95%",
+    "uptimeMonth": "96.00%",
     "uptimeYear": "63.97%",
     "time": 5560,
     "timeDay": 17343,
@@ -465,7 +465,7 @@
       "2026-08-15": 17,
       "2026-08-17": 359,
       "2026-08-18": 77,
-      "2026-08-19": 506
+      "2026-08-19": 513
     }
   },
   {
@@ -871,9 +871,9 @@
     "slug": "registerhub-dpi",
     "status": "down",
     "uptime": "70.30%",
-    "uptimeDay": "69.90%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "69.39%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "96.28%",
     "uptimeYear": "70.30%",
     "time": 4591,
     "timeDay": 3355,
@@ -1001,7 +1001,7 @@
       "2026-07-21": 570,
       "2026-07-23": 153,
       "2026-08-01": 60,
-      "2026-08-19": 433
+      "2026-08-19": 441
     }
   },
   {
