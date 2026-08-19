@@ -4,12 +4,12 @@
     "url": "https://my.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my.kheradedu.ir.ico",
     "slug": "my",
-    "status": "up",
-    "uptime": "64.95%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "96.17%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "64.95%",
+    "status": "down",
+    "uptime": "64.96%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "64.96%",
     "time": 3960,
     "timeDay": 6720,
     "timeWeek": 4865,
@@ -148,7 +148,7 @@
       "2026-08-15": 27,
       "2026-08-16": 22,
       "2026-08-18": 35,
-      "2026-08-19": 47
+      "2026-08-19": 52
     }
   },
   {
@@ -156,12 +156,12 @@
     "url": "https://my-dev.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my-dev.kheradedu.ir.ico",
     "slug": "my-dev",
-    "status": "up",
-    "uptime": "61.75%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "94.42%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "61.75%",
+    "status": "down",
+    "uptime": "61.76%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "61.76%",
     "time": 2832,
     "timeDay": 3821,
     "timeWeek": 3965,
@@ -308,7 +308,7 @@
       "2026-08-15": 22,
       "2026-08-17": 364,
       "2026-08-18": 37,
-      "2026-08-19": 42
+      "2026-08-19": 46
     }
   },
   {
@@ -316,12 +316,12 @@
     "url": "https://dpi.kheradedu.ir/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.ir.ico",
     "slug": "my-dpi",
-    "status": "up",
-    "uptime": "64.03%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "91.34%",
+    "status": "down",
+    "uptime": "64.04%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "91.32%",
     "uptimeMonth": "97.01%",
-    "uptimeYear": "64.03%",
+    "uptimeYear": "64.04%",
     "time": 5560,
     "timeDay": 17343,
     "timeWeek": 9055,
@@ -465,7 +465,7 @@
       "2026-08-15": 17,
       "2026-08-17": 359,
       "2026-08-18": 77,
-      "2026-08-19": 71
+      "2026-08-19": 73
     }
   },
   {
@@ -473,17 +473,17 @@
     "url": "https://kheradedu.com",
     "icon": "https://icons.duckduckgo.com/ip3/kheradedu.com.ico",
     "slug": "registerhub-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "71.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.77%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "71.01%",
-    "time": 4832,
-    "timeDay": 2638,
-    "timeWeek": 2790,
-    "timeMonth": 3672,
-    "timeYear": 4832,
+    "time": 4825,
+    "timeDay": 2716,
+    "timeWeek": 2791,
+    "timeMonth": 3646,
+    "timeYear": 4825,
     "dailyMinutesDown": {
       "2025-10-18": 56,
       "2025-11-02": 275,
@@ -595,7 +595,8 @@
       "2026-06-27": 158,
       "2026-07-11": 113,
       "2026-07-22": 405,
-      "2026-07-21": 573
+      "2026-07-21": 573,
+      "2026-08-19": 2
     }
   },
   {
@@ -603,17 +604,17 @@
     "url": "https://api.kheradedu.com/admin",
     "icon": "https://icons.duckduckgo.com/ip3/api.kheradedu.com.ico",
     "slug": "registerhub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "71.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "71.04%",
-    "time": 4527,
-    "timeDay": 3095,
-    "timeWeek": 3114,
-    "timeMonth": 4031,
-    "timeYear": 4527,
+    "time": 4520,
+    "timeDay": 2829,
+    "timeWeek": 3045,
+    "timeMonth": 3988,
+    "timeYear": 4520,
     "dailyMinutesDown": {
       "2025-10-18": 25,
       "2025-10-22": 21,
@@ -724,7 +725,8 @@
       "2026-06-30": 90,
       "2026-07-11": 111,
       "2026-07-22": 405,
-      "2026-07-21": 572
+      "2026-07-21": 572,
+      "2026-08-19": 2
     }
   },
   {
@@ -732,17 +734,17 @@
     "url": "https://dev.kheradedu.com",
     "icon": "https://icons.duckduckgo.com/ip3/dev.kheradedu.com.ico",
     "slug": "registerhub-dev-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "69.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "69.13%",
-    "time": 4637,
-    "timeDay": 2847,
-    "timeWeek": 2658,
-    "timeMonth": 3572,
-    "timeYear": 4637,
+    "time": 4629,
+    "timeDay": 2702,
+    "timeWeek": 2645,
+    "timeMonth": 3542,
+    "timeYear": 4629,
     "dailyMinutesDown": {
       "2025-10-19": 35,
       "2025-11-02": 276,
@@ -858,7 +860,8 @@
       "2026-06-27": 155,
       "2026-07-11": 109,
       "2026-07-22": 405,
-      "2026-07-21": 571
+      "2026-07-21": 571,
+      "2026-08-19": 1
     }
   },
   {
@@ -866,17 +869,17 @@
     "url": "https://dpi.kheradedu.com/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.com.ico",
     "slug": "registerhub-dpi",
-    "status": "up",
+    "status": "down",
     "uptime": "70.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "70.37%",
-    "time": 4594,
-    "timeDay": 3194,
-    "timeWeek": 2944,
-    "timeMonth": 3773,
-    "timeYear": 4594,
+    "time": 4591,
+    "timeDay": 3355,
+    "timeWeek": 3016,
+    "timeMonth": 3766,
+    "timeYear": 4591,
     "dailyMinutesDown": {
       "2025-10-18": 25,
       "2025-11-02": 276,
@@ -997,7 +1000,8 @@
       "2026-07-22": 405,
       "2026-07-21": 570,
       "2026-07-23": 153,
-      "2026-08-01": 60
+      "2026-08-01": 60,
+      "2026-08-19": 1
     }
   },
   {
@@ -1005,17 +1009,17 @@
     "url": "https://emdad-khodro-ardabil.ir",
     "icon": "https://icons.duckduckgo.com/ip3/emdad-khodro-ardabil.ir.ico",
     "slug": "emdad-khodro",
-    "status": "up",
+    "status": "down",
     "uptime": "69.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "82.33%",
     "uptimeYear": "69.52%",
-    "time": 6625,
-    "timeDay": 1926,
-    "timeWeek": 1595,
-    "timeMonth": 2244,
-    "timeYear": 6625,
+    "time": 6618,
+    "timeDay": 2566,
+    "timeWeek": 1796,
+    "timeMonth": 2267,
+    "timeYear": 6618,
     "dailyMinutesDown": {
       "2025-10-18": 33,
       "2025-10-25": 33,
@@ -1148,7 +1152,8 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 711,
-      "2026-08-05": 859
+      "2026-08-05": 859,
+      "2026-08-19": 1
     }
   },
   {
@@ -1156,17 +1161,17 @@
     "url": "https://khodrobar-ardabil.ir",
     "icon": "https://icons.duckduckgo.com/ip3/khodrobar-ardabil.ir.ico",
     "slug": "khodrobar",
-    "status": "up",
-    "uptime": "69.66%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "69.67%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.33%",
-    "uptimeYear": "69.66%",
-    "time": 6739,
-    "timeDay": 1588,
-    "timeWeek": 1561,
-    "timeMonth": 2249,
-    "timeYear": 6739,
+    "uptimeYear": "69.67%",
+    "time": 6726,
+    "timeDay": 1157,
+    "timeWeek": 1457,
+    "timeMonth": 2212,
+    "timeYear": 6726,
     "dailyMinutesDown": {
       "2025-10-21": 15,
       "2025-10-25": 32,
@@ -1295,7 +1300,8 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 710,
-      "2026-08-05": 859
+      "2026-08-05": 859,
+      "2026-08-19": 0
     }
   }
 ]
