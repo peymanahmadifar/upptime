@@ -162,8 +162,8 @@
     "status": "down",
     "uptime": "61.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.99%",
-    "uptimeMonth": "88.18%",
+    "uptimeWeek": "51.83%",
+    "uptimeMonth": "88.14%",
     "uptimeYear": "61.15%",
     "time": 2811,
     "timeDay": 742,
@@ -312,7 +312,7 @@
       "2026-08-17": 364,
       "2026-08-18": 37,
       "2026-08-19": 903,
-      "2026-08-22": 633,
+      "2026-08-22": 649,
       "2026-08-21": 1440,
       "2026-08-20": 1440
     }
@@ -322,17 +322,17 @@
     "url": "https://dpi.kheradedu.ir/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.ir.ico",
     "slug": "my-dpi",
-    "status": "down",
+    "status": "up",
     "uptime": "63.48%",
-    "uptimeDay": "24.16%",
-    "uptimeWeek": "54.86%",
-    "uptimeMonth": "87.82%",
+    "uptimeDay": "24.21%",
+    "uptimeWeek": "54.71%",
+    "uptimeMonth": "87.79%",
     "uptimeYear": "63.48%",
-    "time": 5533,
-    "timeDay": 5034,
-    "timeWeek": 8086,
-    "timeMonth": 8502,
-    "timeYear": 5533,
+    "time": 5531,
+    "timeDay": 4973,
+    "timeWeek": 7959,
+    "timeMonth": 8443,
+    "timeYear": 5531,
     "dailyMinutesDown": {
       "2025-10-18": 25,
       "2025-10-21": 30,
@@ -472,7 +472,7 @@
       "2026-08-17": 359,
       "2026-08-18": 77,
       "2026-08-19": 931,
-      "2026-08-22": 285,
+      "2026-08-22": 300,
       "2026-08-21": 1440,
       "2026-08-20": 1440
     }
@@ -880,7 +880,7 @@
     "slug": "registerhub-dpi",
     "status": "up",
     "uptime": "69.77%",
-    "uptimeDay": "26.85%",
+    "uptimeDay": "27.95%",
     "uptimeWeek": "60.46%",
     "uptimeMonth": "90.42%",
     "uptimeYear": "69.77%",
@@ -1023,9 +1023,9 @@
     "slug": "emdad-khodro",
     "status": "down",
     "uptime": "69.80%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "84.34%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "84.31%",
     "uptimeYear": "69.80%",
     "time": 6564,
     "timeDay": 1189,
@@ -1166,7 +1166,7 @@
       "2026-07-29": 711,
       "2026-08-05": 859,
       "2026-08-19": 57,
-      "2026-08-22": 34
+      "2026-08-22": 50
     }
   },
   {
@@ -1175,11 +1175,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/khodrobar-ardabil.ir.ico",
     "slug": "khodrobar",
     "status": "down",
-    "uptime": "69.95%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "84.35%",
-    "uptimeYear": "69.95%",
+    "uptime": "69.94%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "84.31%",
+    "uptimeYear": "69.94%",
     "time": 6669,
     "timeDay": 1134,
     "timeWeek": 1412,
@@ -1315,7 +1315,7 @@
       "2026-07-29": 710,
       "2026-08-05": 859,
       "2026-08-19": 57,
-      "2026-08-22": 34
+      "2026-08-22": 50
     }
   }
 ]
