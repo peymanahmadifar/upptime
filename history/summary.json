@@ -4,17 +4,17 @@
     "url": "https://my.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my.kheradedu.ir.ico",
     "slug": "my",
-    "status": "down",
+    "status": "up",
     "uptime": "65.29%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "65.29%",
-    "time": 4076,
-    "timeDay": 7387,
-    "timeWeek": 5703,
-    "timeMonth": 5591,
-    "timeYear": 4076,
+    "time": 4078,
+    "timeDay": 6816,
+    "timeWeek": 5654,
+    "timeMonth": 5572,
+    "timeYear": 4078,
     "dailyMinutesDown": {
       "2025-10-25": 26,
       "2025-10-31": 16,
@@ -151,7 +151,7 @@
       "2026-08-19": 148,
       "2026-08-20": 31,
       "2026-08-21": 61,
-      "2026-08-22": 73
+      "2026-08-22": 75
     }
   },
   {
@@ -162,8 +162,8 @@
     "status": "down",
     "uptime": "61.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.70%",
-    "uptimeMonth": "86.91%",
+    "uptimeWeek": "46.67%",
+    "uptimeMonth": "86.90%",
     "uptimeYear": "61.07%",
     "time": 2811,
     "timeDay": 742,
@@ -312,7 +312,7 @@
       "2026-08-17": 364,
       "2026-08-18": 37,
       "2026-08-19": 903,
-      "2026-08-22": 1189,
+      "2026-08-22": 1192,
       "2026-08-21": 1440,
       "2026-08-20": 1440
     }
@@ -322,17 +322,17 @@
     "url": "https://dpi.kheradedu.ir/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.ir.ico",
     "slug": "my-dpi",
-    "status": "down",
+    "status": "up",
     "uptime": "63.53%",
-    "uptimeDay": "61.63%",
-    "uptimeWeek": "54.88%",
-    "uptimeMonth": "87.79%",
+    "uptimeDay": "61.69%",
+    "uptimeWeek": "54.85%",
+    "uptimeMonth": "87.78%",
     "uptimeYear": "63.53%",
-    "time": 5525,
-    "timeDay": 4926,
-    "timeWeek": 7623,
-    "timeMonth": 8332,
-    "timeYear": 5525,
+    "time": 5542,
+    "timeDay": 5670,
+    "timeWeek": 7716,
+    "timeMonth": 8359,
+    "timeYear": 5542,
     "dailyMinutesDown": {
       "2025-10-18": 25,
       "2025-10-21": 30,
@@ -472,7 +472,7 @@
       "2026-08-17": 359,
       "2026-08-18": 77,
       "2026-08-19": 931,
-      "2026-08-22": 301,
+      "2026-08-22": 303,
       "2026-08-21": 1440,
       "2026-08-20": 1440
     }
@@ -880,7 +880,7 @@
     "slug": "registerhub-dpi",
     "status": "up",
     "uptime": "69.80%",
-    "uptimeDay": "65.43%",
+    "uptimeDay": "65.64%",
     "uptimeWeek": "60.46%",
     "uptimeMonth": "90.42%",
     "uptimeYear": "69.80%",
@@ -1023,8 +1023,8 @@
     "slug": "emdad-khodro",
     "status": "down",
     "uptime": "69.71%",
-    "uptimeDay": "59.05%",
-    "uptimeWeek": "93.59%",
+    "uptimeDay": "58.84%",
+    "uptimeWeek": "93.55%",
     "uptimeMonth": "83.07%",
     "uptimeYear": "69.71%",
     "time": 6564,
@@ -1166,7 +1166,7 @@
       "2026-07-29": 711,
       "2026-08-05": 859,
       "2026-08-19": 57,
-      "2026-08-22": 590
+      "2026-08-22": 593
     }
   },
   {
@@ -1176,9 +1176,9 @@
     "slug": "khodrobar",
     "status": "down",
     "uptime": "69.86%",
-    "uptimeDay": "59.07%",
-    "uptimeWeek": "93.59%",
-    "uptimeMonth": "83.08%",
+    "uptimeDay": "58.86%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "83.07%",
     "uptimeYear": "69.86%",
     "time": 6669,
     "timeDay": 1134,
@@ -1315,7 +1315,7 @@
       "2026-07-29": 710,
       "2026-08-05": 859,
       "2026-08-19": 57,
-      "2026-08-22": 589
+      "2026-08-22": 592
     }
   }
 ]
