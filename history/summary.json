@@ -4,17 +4,17 @@
     "url": "https://my.kheradedu.ir",
     "icon": "https://icons.duckduckgo.com/ip3/my.kheradedu.ir.ico",
     "slug": "my",
-    "status": "down",
-    "uptime": "65.40%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "65.40%",
-    "time": 4073,
-    "timeDay": 3833,
-    "timeWeek": 5738,
-    "timeMonth": 5445,
-    "timeYear": 4073,
+    "status": "up",
+    "uptime": "65.39%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "65.39%",
+    "time": 4085,
+    "timeDay": 4690,
+    "timeWeek": 5804,
+    "timeMonth": 5476,
+    "timeYear": 4085,
     "dailyMinutesDown": {
       "2025-10-25": 26,
       "2025-10-31": 16,
@@ -152,7 +152,7 @@
       "2026-08-20": 31,
       "2026-08-21": 61,
       "2026-08-22": 63,
-      "2026-08-23": 8
+      "2026-08-23": 22
     }
   },
   {
@@ -163,8 +163,8 @@
     "status": "down",
     "uptime": "60.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.74%",
-    "uptimeMonth": "83.70%",
+    "uptimeWeek": "32.60%",
+    "uptimeMonth": "83.66%",
     "uptimeYear": "60.88%",
     "time": 2802,
     "timeDay": 657,
@@ -313,7 +313,7 @@
       "2026-08-17": 364,
       "2026-08-18": 37,
       "2026-08-19": 903,
-      "2026-08-23": 1155,
+      "2026-08-23": 1170,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440
@@ -324,17 +324,17 @@
     "url": "https://dpi.kheradedu.ir/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dpi.kheradedu.ir.ico",
     "slug": "my-dpi",
-    "status": "down",
+    "status": "up",
     "uptime": "63.64%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "54.71%",
-    "uptimeMonth": "87.75%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "54.58%",
+    "uptimeMonth": "87.72%",
     "uptimeYear": "63.64%",
-    "time": 5551,
-    "timeDay": 7263,
-    "timeWeek": 7937,
-    "timeMonth": 8228,
-    "timeYear": 5551,
+    "time": 5555,
+    "timeDay": 7131,
+    "timeWeek": 7884,
+    "timeMonth": 8204,
+    "timeYear": 5555,
     "dailyMinutesDown": {
       "2025-10-18": 25,
       "2025-10-21": 30,
@@ -477,7 +477,7 @@
       "2026-08-22": 300,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
-      "2026-08-23": 18
+      "2026-08-23": 31
     }
   },
   {
@@ -1027,7 +1027,7 @@
     "status": "down",
     "uptime": "69.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.63%",
+    "uptimeWeek": "79.49%",
     "uptimeMonth": "80.95%",
     "uptimeYear": "69.49%",
     "time": 6552,
@@ -1169,7 +1169,7 @@
       "2026-07-29": 711,
       "2026-08-05": 859,
       "2026-08-19": 57,
-      "2026-08-23": 1155,
+      "2026-08-23": 1170,
       "2026-08-22": 841
     }
   },
@@ -1181,7 +1181,7 @@
     "status": "down",
     "uptime": "69.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.64%",
+    "uptimeWeek": "79.49%",
     "uptimeMonth": "80.96%",
     "uptimeYear": "69.64%",
     "time": 6656,
@@ -1319,7 +1319,7 @@
       "2026-07-29": 710,
       "2026-08-05": 859,
       "2026-08-19": 57,
-      "2026-08-23": 1155,
+      "2026-08-23": 1170,
       "2026-08-22": 840
     }
   }
